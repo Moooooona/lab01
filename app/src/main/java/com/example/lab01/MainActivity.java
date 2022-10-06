@@ -34,8 +34,5 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-    //  public void onclick(View view){
-    //
-    //
-    // }
+
 }
